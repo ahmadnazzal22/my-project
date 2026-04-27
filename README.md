@@ -56,4 +56,4 @@ This repository contains a collection of Python projects that I built while lear
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SeifddinDamous/python-projects.git
+   git clone https://github.com/ahmadnazzal22/my-project.git
