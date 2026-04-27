@@ -4,6 +4,7 @@
 </p>
 
 Python Projects Collection 🐍💻
+
 This repository contains a collection of Python projects that I built while learning and practicing programming. Each folder contains a standalone project demonstrating a specific concept, library, or idea.
 
 ---
