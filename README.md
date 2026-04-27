@@ -1,10 +1,9 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Python Projects Collection 🐍💻
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+Python Projects Collection 🐍💻
 This repository contains a collection of Python projects that I built while learning and practicing programming. Each folder contains a standalone project demonstrating a specific concept, library, or idea.
 
 ---
