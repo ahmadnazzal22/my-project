@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('home') }}">Home</a>
+        <a href="{{ url_for('about') }}">About</a>
+    </nav>
+    <hr>
+    
+    {% block content %}
+    {% endblock %}
+
+    <footer>
+        <p>© 2026 Ahmad Mohammad Nazzal</p>
+    </footer>
+</body>
+</html>

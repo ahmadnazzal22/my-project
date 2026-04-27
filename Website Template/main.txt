@@ -1,0 +1,8 @@
+/MyWebsite
+    ├── main.py              (كود بايثون)
+    ├── static/              (ملفات CSS والصور)
+    │     └── style.css
+    └── templates/           (ملفات HTML)
+          ├── base.html      (القالب الأساسي)
+          ├── index.html     (الصفحة الرئيسية)
+          └── about.html     (صفحة التعريف)
